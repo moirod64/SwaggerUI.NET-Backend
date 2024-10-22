@@ -1,0 +1,5 @@
+{
+        "ConnectionStrings": {
+                "DefaultConnection": "Server=MOISES-DESKTOP;Database=TestDB;Trusted_Connection=true;TrustServerCertificate=True;"
+        }
+}
