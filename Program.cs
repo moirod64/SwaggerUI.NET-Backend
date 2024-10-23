@@ -27,7 +27,7 @@ builder.Services.AddSwaggerGen(c =>
         {
             Title = "Company App",
             Version = "v1",
-            Description = "Alpha from the Alpha",
+            Description = "Alpha del Alpha",
         }
     );
 
